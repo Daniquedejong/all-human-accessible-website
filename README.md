@@ -1,4 +1,4 @@
-vmdanique.student.fdnd.nl/
+https://vmdanique.student.fdnd.nl
 
 De userstories waar ik aan ga werken zijn de volgende:
 1. Als ouder wil ik in een agenda overzicht krijgen, zodat ik weet op welke dag ik een supplement voor een allergie moet geven.
